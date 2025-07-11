@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Vite/React
+frontend/dist/
+frontend/.vite/
+
+# Electron build artifacts (если билдишь)
+electron-app/dist/
+electron-app/build/
+
+# System
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# yt-dlp (если лежит рядом с сервером)
+server/services/t-dlp.exe
+
+# Local git backup
+PlaylistAedra.git
+
+PlaylistAedra.md
+
+подсказки.md
