@@ -32,7 +32,7 @@ Thumbs.db
 .vscode/
 
 # yt-dlp (если лежит рядом с сервером)
-server/services/t-dlp.exe
+server/services/yt-dlp.exe
 
 # Local git backup
 PlaylistAedra.git
